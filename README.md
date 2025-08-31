@@ -1,25 +1,33 @@
 # AWS-Bedrock-Agent-Practice
 This is a common repo for AWS Bedrock Agent Practice
 
-# Amazon Bedrock Agents​
-Amazon Bedrock Agents is a powerful feature that transforms how developers create AI-powered applications capable of completing complex tasks autonomously.​
+# Amazon Bedrock Agents
 
-​Key components and capabilities​
+Amazon Bedrock Agents is a powerful feature that transforms how developers create **AI-powered applications** capable of completing complex tasks autonomously.
 
-Foundation Model integration​
+---
 
-At the heart of every Bedrock Agent is a foundation model that powers its understanding and decision-making capabilities.​
+## 🚀 Key Components and Capabilities
 
-Agent instructions​
+### 🧠 Foundation Model Integration
+At the heart of every Bedrock Agent is a **foundation model** that powers its understanding and decision-making capabilities.
 
-Think of agent instructions as your agent's mission statement and operating manual combined. These instructions define the boundaries and personality of your agent, guiding its interactions and decision-making processes.​
+### 📜 Agent Instructions
+Agent instructions act as your agent's **mission statement and operating manual combined**.  
+They define the boundaries and personality of your agent, guiding its interactions and decision-making processes.
 
-Code interpretation​
+### 💻 Code Interpretation
+Code interpretation allows agents to **generate and execute code in a secure sandbox environment**, enabling dynamic and adaptive functionality.
 
-Code interpretation allows agents to generate and execute code in a secure sandbox environment, enabling:​
+### 💬 Interactive User Inputs
+The interactive nature of Bedrock Agents is demonstrated through its **sophisticated conversation management**, enabling seamless user interactions.
 
-Interactive user inputs​
+---
 
-The interactive nature of Bedrock Agents is demonstrated through its sophisticated conversation management. ​
+## 📖 Learn More
+- [Amazon Bedrock Documentation](https://docs.aws.amazon.com/bedrock/)
+- [AWS AI & ML Services](https://aws.amazon.com/machine-learning/)
+
+​
 
 ​
